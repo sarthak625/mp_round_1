@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "migrations": "npx sequelize-cli db:migrate"
+    "migrations": "npx sequelize-cli db:migrate",
+    "seeds": "npx sequelize db:seed:all"
   },
   "author": "Sarthak Negi",
   "license": "ISC",

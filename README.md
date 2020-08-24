@@ -7,6 +7,7 @@
 > Create database configured in env
 > Run "npm i"
 > Run "npm run migrations"
+> Run "npm run seeds"
 > Run "npm start" 
 
 # APIs
