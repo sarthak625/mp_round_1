@@ -3,11 +3,17 @@
 # Steps to run
 
 > Copy env.example to .env
+
 > Copy config/example.json to config/database.json
+
 > Create database configured in env
+
 > Run "npm i"
+
 > Run "npm run migrations"
+
 > Run "npm run seeds"
+
 > Run "npm start" 
 
 # APIs
